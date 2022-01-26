@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/Enums in Java/Hidden enumeration/out/
+/Topics/Enums in Java/Hidden enumeration/out/production/classes/
+/Topics/Integer types and operations/Reversing/out/
+/Topics/Integer types and operations/Reversing/out/production/classes/
+/Topics/Integer types and operations/The sum of digits/out/
+/Topics/Integer types and operations/The sum of digits/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
